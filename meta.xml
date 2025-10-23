@@ -1,0 +1,6 @@
+<meta>
+    <info author="Atlas" version="1.0" name="Sistema XP"/>
+
+    <script cache = 'false' type = 'client' src = 'source/client/*.lua' />
+    <script cache = 'false' type = 'server' src = 'source/server/*.lua' />
+</meta>
